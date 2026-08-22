@@ -437,7 +437,7 @@ Existen diferentes hábitos para configurar notas al pie. Algunos estilos requie
 - `savefnmark`: Útil cuando necesita utilizar notas al pie varias veces.
 - `footmisc`: Un paquete polivalente; introduce numeración por página, puede ahorrar espacio cuando se utilizan muchas notas al pie cortas, ofrece símbolos en lugar de números como marcas de notas al pie y proporciona sangría francesa (*hanging indentation*) y otros estilos.
 
-Eche un vistazo a la documentación del paquete correspondiente para obtener más información utilizando el comando `texdoc`, como se explicó en el [Capítulo 1](https://subscription.packtpub.com/book/business-and-other/9781805804574/1), *Primeros pasos con LaTeX*, o en [https://texdoc.org](https://texdoc.org/).
+Eche关 un vistazo a la documentación del paquete correspondiente para obtener más información utilizando el comando `texdoc`, como se explicó en el [Capítulo 1](https://subscription.packtpub.com/book/business-and-other/9781805804574/1), *Primeros pasos con LaTeX*, o en [https://texdoc.org](https://texdoc.org/).
 
 Como hemos hablado de las notas al pie al final de una página, veamos cómo forzar el final de una página nosotros mismos en caso de que no queramos dejar que suceda automáticamente.
 
